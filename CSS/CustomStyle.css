@@ -1,0 +1,29 @@
+.CustomDiv {
+    margin: 3px;
+    min-height: 300px;
+    background-color: white;
+    border: 2px solid green;
+    padding: 40px;
+    color: black;
+   
+  }
+ 
+p{
+    color: black;
+}
+body  {
+    background-image: url("../assets/images/background.jpg");
+     }
+
+#Message
+{
+    height:200px;
+    width: 700px;
+    font-size:14pt;
+}
+
+#Email
+{
+    width: 500px;
+    font-size:14pt;
+}
