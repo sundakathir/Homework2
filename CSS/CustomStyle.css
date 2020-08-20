@@ -7,13 +7,12 @@
    
   }
 
-  .Custombody
+  body
   { 
- 
-      background-image: url("../Images/bgImage.jpg");
+    background-image: url("../Images/bgImage.jpg")
+  };
    
 
-  }
 
  p{
     color: black;
