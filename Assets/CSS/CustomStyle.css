@@ -7,11 +7,16 @@
    
   }
 
+  .Custombody
+  { 
+ 
+      background-image: url("../Images/bgImage.jpg");
+   
+
+  }
+
  p{
     color: black;
-}
-body  {
-    background-image: url("../assets/images/background.jpg");
 }
 
 #Message
