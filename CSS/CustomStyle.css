@@ -6,6 +6,20 @@
     color: black;
    
   }
+ ul {
+  list-style-type: none;
+ }
+
+ .responsive {
+  width: 100%;
+  height: auto;
+}
+
+.PortFolio {
+  width: 400px;
+  height: 200px;
+}
+
 
   body
   { 
